@@ -2,4 +2,4 @@ spring:
   application:
     name: cloud-payment-service
 config:
-  info: hello world123
+  info: hello world123456
